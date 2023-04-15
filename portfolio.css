@@ -83,8 +83,12 @@ html{
     color: crimson;
 }
 
-.navbar.sticky .menu li a:hover {
+.navbar.sticky .menu li a {
     color: aliceblue;
+}
+
+.navbar.sticky .menu li a:hover {
+    color: black;
 }
 
 .navbar.sticky .bar1,
